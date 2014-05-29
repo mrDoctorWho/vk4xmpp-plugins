@@ -1,0 +1,17 @@
+# coding: utf-8
+
+
+## Telnet bind port.
+TELNET_PORT = 9677
+
+## Telnet bind IP.
+TELNET_IP = "0.0.0.0"
+
+## Username for telnet auth.
+TELNET_USERNAME = "SomeOne"
+
+# Password for telnet auth.
+TELNET_PASSWORD = "SuperMegaPassword"
+
+## Telnet ips allow list.
+ALLOW_FROM = ["127.0.0.1", "192.168.1.1"]
